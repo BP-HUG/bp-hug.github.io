@@ -1,3 +1,4 @@
 [submodule "_site"]
 	path = _site
 	url = https://github.com/BP-HUG/bp-hug.github.io.git
+    branch = master

@@ -17,4 +17,5 @@ cabal.sandbox.config
 *.eventlog
 .stack-work/
 _cache/
+/site
 .DS_Store
